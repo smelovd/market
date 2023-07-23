@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="solution:jar">
+    <output-path>$USER_HOME$/OneDrive/Робочий стіл/Новая папка</output-path>
+    <root id="archive" name="test4.jar">
+      <element id="module-output" name="test4" />
+    </root>
+  </artifact>
+</component>
